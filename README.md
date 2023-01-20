@@ -1,0 +1,2 @@
+# majorx.json
+bedirhanoviic
